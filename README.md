@@ -1,4 +1,4 @@
-# -ROBO2RG05AU
+# ROBO2RG05AU
 Verkefnin í áfanganum Róbotar 1
 
 [1.1 vídeó](https://youtu.be/ntYdqvUfNbA)<br>
